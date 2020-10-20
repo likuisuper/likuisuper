@@ -5,7 +5,7 @@
 - 我是一名 Java 工程师
 - 博客：likuisuper.github.io
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likuisuper?theme=THEME_NAME radical)](https://github.com/anuraghazra/github-readme-stats)
+[![likuisuper's github stats](https://github-readme-stats.vercel.app/api?username=likuisuper&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
